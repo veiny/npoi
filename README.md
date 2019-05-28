@@ -11,10 +11,6 @@ NPOI
 <br />
 This project is the .NET version of POI Java project. With NPOI, you can read/write Office 2003/2007 files very easily.<br />
 
-NEX Meetup | NEX聚会 
-=====================
-NEX聚会，一个帮助码农拓展人脉的聚会。目前在上海定期举行线下活动，扫描下面的二维码关注我们的公众号。
-![NEX聚会微信公众号](https://github.com/tonyqus/npoi/raw/master/logo/nexmeetup_qrcode.png)
 
 Support and Service
 ===================
@@ -44,13 +40,6 @@ h. Real successful cases all over the world
 
 i. huge amout of basic examples
 
-Neuzilla on SNS
-============
-Linkedin Group: http://www.linkedin.com/groups/Neuzilla-User-Group-6655065
-
-Twitter: http://twitter.com/tonyqus
-
-QQ Group: 189925337, 20144214
 
 System Requirement
 ===================
